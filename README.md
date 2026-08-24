@@ -44,7 +44,7 @@ Mona
 <td width="180" align="center" valign="top">
 
 <details>
-<summary>Comfort</summary>
+<summary>Notes</summary>
 <br>
 Occasional crowd discomfort.
 </details>
