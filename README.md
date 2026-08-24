@@ -5,7 +5,7 @@
 <detials><summary align="center"> FANDOMS: </summary> <p align="center"> bsd, madoka magica, adventure time </p> </details>
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 <details>
 <summary>✦ Fandoms</summary>
@@ -19,7 +19,7 @@ Bungou Stray Dogs
 </details>
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 <details>
 <summary>✦ Pronouns</summary>
@@ -32,7 +32,7 @@ she/her
 </details>
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 <details>
 <summary>✦ Names</summary>
@@ -45,7 +45,7 @@ Mona
 </details>
 
 </td>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 <details>
 <summary>✦ Comfort</summary>
