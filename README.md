@@ -2,4 +2,4 @@
 
 <p>$$\color{rgba(30, 77, 43, 1)}{\text{°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･}}$$</p>
 <p>$$\color{rgba(30, 77, 43, 1)}{\textbf{⋮ ⌗ ┆ \color{rgba(53, 94, 59, 1)}refer to as Aurora, TR/ENG \color{rgba(30, 77, 43, 1)}{ ⊹ ࣪ ˖ ໒꒱}}}$$</p> 
-\color{rgba(53, 94, 59, 1)}<detials><summary> FANDOMS: </summary> bsd, madoka magica, studio ghibli </details>
+<detials><summary> FANDOMS: </summary> bsd, madoka magica, studio ghibli </details>
