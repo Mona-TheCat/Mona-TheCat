@@ -64,5 +64,3 @@ Occasional crowd discomfort.
 
 
 <p align="center"><img alt="Hits" src="https://hits.sh/github.com/Mona-TheCat.svg?label=meows&color=1e4d2b"/></a> </p>
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀
