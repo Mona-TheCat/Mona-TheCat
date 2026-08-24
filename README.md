@@ -5,4 +5,4 @@
 <p>$$\color{rgba(53, 94, 59, 1)} {\textit{Whisper to interact.}}$$ </p>
 
 ![text](https://github.com/user-attachments/assets/4a225e82-8642-4f59-bbd6-37e6927ad9f6)
-<p align="center"> <a href="https://hits.sh/github.com/Mona-TheCat/"><img alt="Hits" src="https://hits.sh/github.com/Mona-TheCat.svg?label=meows&color=1e4d2b"/></a> </p>
+<p align="center"><img alt="Hits" src="https://hits.sh/github.com/Mona-TheCat.svg?label=meows&color=1e4d2b"/></a> </p>
