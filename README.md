@@ -2,7 +2,61 @@
 
 <p>$$\color{rgba(30, 77, 43, 1)} {\text{°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･}}$$</p>
 <p>$$\color{rgba(30, 77, 43, 1)} {\textbf{⋮ ⌗ ┆ \color{rgba(53, 94, 59, 1)}refer to as Aurora, TR/ENG \color{rgba(30, 77, 43, 1)}{ ⊹ ࣪ ˖ ໒꒱}}}$$</p> 
-<p>$$\color{rgba(53, 94, 59, 1)} {\textit{Whisper to interact.}}$$ </p>
 
-![text](https://github.com/user-attachments/assets/4a225e82-8642-4f59-bbd6-37e6927ad9f6)
+
+<table align="center">
+<tr>
+
+<td width="180" align="center" valign="top">
+
+<details>
+<summary>Fandoms</summary>
+<br>
+Adventure Time<br>
+Madoka Magica<br>
+Bungou Stray Dogs
+</details>
+
+</td>
+
+<td width="180" align="center" valign="top">
+
+<details>
+<summary>Pronouns</summary>
+<br>
+they/them<br>
+she/her
+</details>
+
+</td>
+
+<td width="180" align="center" valign="top">
+
+<details>
+<summary>Names</summary>
+<br>
+Aurora<br>
+Mona
+</details>
+
+</td>
+
+<td width="180" align="center" valign="top">
+
+<details>
+<summary>Comfort</summary>
+<br>
+Occasional crowd discomfort.
+</details>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <font color="#355E3B"><i>Whisper to interact.</i></font>
+</p>
+
+
 <p align="center"><img alt="Hits" src="https://hits.sh/github.com/Mona-TheCat.svg?label=meows&color=1e4d2b"/></a> </p>
