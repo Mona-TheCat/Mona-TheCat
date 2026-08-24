@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 <details>
 <summary><b>✦ Fandoms</b></summary>
@@ -22,7 +22,7 @@ Bungou Stray Dogs
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="50%">
 
 <details>
 <summary><b>✦ Pronouns</b></summary>
