@@ -28,8 +28,8 @@ OTGW<br>
 <details>
 <summary>Pronouns</summary>
 <br>
-they/them<br>
-she/her
+she/her<br>
+they/them
 </details>
 
 </td>
