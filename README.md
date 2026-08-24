@@ -8,13 +8,11 @@
 <td width="50%" valign="top">
 
 <details>
-<summary>✦ Fandoms</summary>
+<summary><b>✦ Fandoms</b></summary>
 
 <br>
 
-Adventure Time  
-Madoka Magica  
-Bungou Stray Dogs
+Adventure Time · Madoka Magica · BSD
 
 </details>
 
@@ -22,12 +20,26 @@ Bungou Stray Dogs
 <td width="50%" valign="top">
 
 <details>
-<summary>✦ Pronouns</summary>
+<summary><b>✦ Pronouns</b></summary>
 
 <br>
 
-they/them  
-she/her
+they/them · she/her
+
+</details>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<details>
+<summary><b>✦ Names</b></summary>
+
+<br>
+
+Aurora · Mona
 
 </details>
 
@@ -35,24 +47,11 @@ she/her
 <td width="50%" valign="top">
 
 <details>
-<summary>✦ Names</summary>
+<summary><b>✦ Comfort</b></summary>
 
 <br>
 
-Aurora  
-Mona
-
-</details>
-
-</td>
-<td width="50%" valign="top">
-
-<details>
-<summary>✦ Comfort</summary>
-
-<br>
-
-Occasional discomfort in crowds.
+Occasional crowd discomfort.
 
 </details>
 
