@@ -11,17 +11,21 @@
     <th><b>✦ Names</b></th>
     <th><b>✦ Comfort</b></th>
   </tr>
+  
   <tr align="center">
     <td>Adventure Time</td>
     <td>they/them</td>
     <td>Aurora</td>
     <td>Occasional crowd discomfort.</td>
   </tr>
+  
   <tr align="center">
     <td>Madoka Magica</td>
     <td>she/her</td>
     <td>Mona</td>
+    <td></td>
   </tr>
+  
   <tr align="center">
     <td>Bungou Stray Dogs</td>
   </tr>
