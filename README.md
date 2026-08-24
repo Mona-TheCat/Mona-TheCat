@@ -15,6 +15,10 @@
 Adventure Time<br>
 Madoka Magica<br>
 Bungou Stray Dogs
+Rusty Lake<br>
+Alice in Wonderland<br>
+Hollow Knight<br>
+OTGW<br>
 </details>
 
 </td>
