@@ -7,7 +7,7 @@
 
 <table>
 <tr>
-<td align="center" width="40%">
+<td align="center" width="27%">
 
 <details>
 <summary><b>✦ Fandoms</b></summary>
@@ -22,7 +22,7 @@ Bungou Stray Dogs
 
 </td>
 
-<td align="center" width="40%">
+<td align="center" width="27%">
 
 <details>
 <summary><b>✦ Pronouns</b></summary>
@@ -36,7 +36,7 @@ she/her
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="23%">
 
 <details>
 <summary><b>✦ Names</b></summary>
@@ -50,7 +50,7 @@ Mona
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="70%">
 
 <details>
 <summary><b>✦ Comfort</b></summary>
