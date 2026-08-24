@@ -3,48 +3,54 @@
 <p>$$\color{rgba(30, 77, 43, 1)}{\text{°❀⋆.ೃ࿔*:･°❀⋆.ೃ࿔*:･}}$$</p>
 <p>$$\color{rgba(30, 77, 43, 1)}{\textbf{⋮ ⌗ ┆ \color{rgba(53, 94, 59, 1)}refer to as Aurora, TR/ENG \color{rgba(30, 77, 43, 1)}{ ⊹ ࣪ ˖ ໒꒱}}}$$</p> 
 <detials><summary align="center"> FANDOMS: </summary> <p align="center"> bsd, madoka magica, adventure time </p> </details>
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
 <details>
 <summary><b>✦ Fandoms</b></summary>
 
 <br>
 
-Adventure Time · Madoka Magica · BSD
+Adventure Time
+Madoka Magica
+Bungou Stray Dogs
 
 </details>
 
 </td>
-<td width="50%" valign="top">
+
+<td align="center" width="25%">
 
 <details>
 <summary><b>✦ Pronouns</b></summary>
 
 <br>
 
-they/them · she/her
+they/them
+she/her
 
 </details>
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
 <details>
 <summary><b>✦ Names</b></summary>
 
 <br>
 
-Aurora · Mona
+Aurora
+Mona
 
 </details>
 
 </td>
-<td width="50%" valign="top">
+
+<td align="center" width="25%">
 
 <details>
 <summary><b>✦ Comfort</b></summary>
@@ -59,6 +65,6 @@ Occasional crowd discomfort.
 </tr>
 </table>
 
-<p align="center">
-  <i>Whisper to interact.</i>
-</p>
+<i>Whisper to interact.</i>
+
+</div>
